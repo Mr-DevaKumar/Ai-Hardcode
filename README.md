@@ -1,0 +1,2 @@
+# Ai-Hardcode
+Simple Ai
