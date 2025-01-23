@@ -1,0 +1,162 @@
+[
+    {
+        "question": "What is machine learning?",
+        "answer": "Machine learning is a subset of AI that enables systems to learn patterns from data and make decisions without explicit programming."
+    },
+    {
+        "question": "What is natural language processing?",
+        "answer": "Natural language processing (NLP) is a branch of AI that focuses on the interaction between computers and human languages."
+    },
+    {
+        "question": "What is supervised learning?",
+        "answer": "Supervised learning is a type of machine learning where the model is trained on labeled data."
+    },
+    {
+        "question": "What is unsupervised learning?",
+        "answer": "Unsupervised learning involves training a model on unlabeled data to identify patterns or groupings."
+    },
+    {
+        "question": "What is reinforcement learning?",
+        "answer": "Reinforcement learning is a type of machine learning where agents learn by interacting with their environment and receiving rewards or penalties."
+    },
+    {
+        "question": "What is overfitting in machine learning?",
+        "answer": "Overfitting occurs when a model learns the training data too well, including noise, and performs poorly on new data."
+    },
+    {
+        "question": "What is underfitting in machine learning?",
+        "answer": "Underfitting occurs when a model is too simple and fails to capture the underlying structure of the data."
+    },
+    {
+        "question": "What is tokenization in NLP?",
+        "answer": "Tokenization is the process of splitting text into smaller units such as words or phrases."
+    },
+    {
+        "question": "What are stop words in NLP?",
+        "answer": "Stop words are common words like 'the', 'is', and 'and' that are often removed in text preprocessing."
+    },
+    {
+        "question": "What is stemming in NLP?",
+        "answer": "Stemming is the process of reducing words to their root or base form, often by removing suffixes."
+    },
+    {
+        "question": "What is lemmatization in NLP?",
+        "answer": "Lemmatization reduces words to their dictionary form (lemma) by considering the context and meaning."
+    },
+    {
+        "question": "What is sentiment analysis?",
+        "answer": "Sentiment analysis is the process of determining the emotional tone behind a piece of text."
+    },
+    {
+        "question": "What is a neural network?",
+        "answer": "A neural network is a computational model inspired by the human brain, consisting of layers of interconnected nodes."
+    },
+    {
+        "question": "What is backpropagation?",
+        "answer": "Backpropagation is an algorithm used to train neural networks by adjusting weights based on the error rate."
+    },
+    {
+        "question": "What is a convolutional neural network (CNN)?",
+        "answer": "A CNN is a type of neural network designed for processing structured grid-like data, such as images."
+    },
+    {
+        "question": "What is a recurrent neural network (RNN)?",
+        "answer": "An RNN is a type of neural network designed for sequential data, where outputs depend on previous computations."
+    },
+    {
+        "question": "What is transfer learning?",
+        "answer": "Transfer learning is a technique where a model trained on one task is reused for a related task, often saving time and resources."
+    },
+    {
+        "question": "What is a word embedding?",
+        "answer": "Word embeddings are vector representations of words in a continuous space, capturing their meanings and relationships."
+    },
+    {
+        "question": "What is the bag-of-words model?",
+        "answer": "The bag-of-words model is a text representation technique that converts text into a fixed-size vector based on word frequency."
+    },
+    {
+        "question": "What is TF-IDF?",
+        "answer": "TF-IDF (Term Frequency-Inverse Document Frequency) is a numerical statistic that reflects the importance of a word in a document relative to a corpus."
+    },
+    {
+        "question": "What is the difference between classification and regression?",
+        "answer": "Classification predicts discrete labels, while regression predicts continuous values."
+    },
+    {
+        "question": "What is a decision tree?",
+        "answer": "A decision tree is a flowchart-like structure used for decision-making and predictive modeling."
+    },
+    {
+        "question": "What is a random forest?",
+        "answer": "A random forest is an ensemble learning method that combines multiple decision trees to improve accuracy and reduce overfitting."
+    },
+    {
+        "question": "What is a support vector machine (SVM)?",
+        "answer": "An SVM is a supervised learning algorithm used for classification and regression tasks, separating data with a hyperplane."
+    },
+    {
+        "question": "What is the difference between deep learning and machine learning?",
+        "answer": "Deep learning is a subset of machine learning that uses multi-layered neural networks to learn from data."
+    },
+    {
+        "question": "What is cross-validation?",
+        "answer": "Cross-validation is a technique to assess the performance of a model by splitting the data into training and testing subsets."
+    },
+    {
+        "question": "What is gradient descent?",
+        "answer": "Gradient descent is an optimization algorithm used to minimize the loss function by updating model parameters iteratively."
+    },
+    {
+        "question": "What is a learning rate?",
+        "answer": "The learning rate is a hyperparameter that controls the step size during the optimization process."
+    },
+    {
+        "question": "What is an activation function?",
+        "answer": "An activation function introduces non-linearity into a neural network, enabling it to learn complex patterns."
+    },
+    {
+        "question": "What is over-sampling?",
+        "answer": "Over-sampling is a technique used to handle imbalanced datasets by increasing the number of minority class samples."
+    },
+    {
+        "question": "What is under-sampling?",
+        "answer": "Under-sampling is a technique to balance datasets by reducing the number of majority class samples."
+    },
+    {
+        "question": "What is an ensemble method?",
+        "answer": "An ensemble method combines multiple models to improve overall performance and reduce errors."
+    },
+    {
+        "question": "What is data augmentation?",
+        "answer": "Data augmentation is a technique to increase the size of a dataset by applying transformations like rotations or flips."
+    },
+    {
+        "question": "What is an outlier?",
+        "answer": "An outlier is a data point that differs significantly from other observations in a dataset."
+    },
+    {
+        "question": "What is the curse of dimensionality?",
+        "answer": "The curse of dimensionality refers to the challenges of working with high-dimensional data, such as overfitting and increased computational cost."
+    },
+    {
+        "question": "What is feature scaling?",
+        "answer": "Feature scaling is the process of normalizing or standardizing data to bring all features to the same scale."
+    },
+    {
+        "question": "What is feature selection?",
+        "answer": "Feature selection is the process of selecting the most relevant features for training a model."
+    },
+    {
+        "question": "What is a Markov model?",
+        "answer": "A Markov model is a stochastic model used to predict future states based solely on the current state."
+    },
+    {
+        "question": "What is the difference between parametric and non-parametric models?",
+        "answer": "Parametric models assume a fixed form for the data, while non-parametric models do not make strong assumptions about data structure."
+    },
+    {
+        "question": "What is text summarization?",
+        "answer": "Text summarization is the process of creating a concise version of a text while retaining its key points."
+    }
+]
